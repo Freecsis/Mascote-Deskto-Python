@@ -2,7 +2,7 @@
 
 Este projeto é um widget interativo para Windows que cria um mascote animado (baseado em sprites de Pokémon ou qualquer GIF) que voa pela sua área de trabalho. O diferencial deste projeto é ser **totalmente dinâmico**, permitindo trocar a "skin" do mascote sem necessidade de recompilar o código.
 
-![Demonstração do Mascote](https://via.placeholder.com/800x400?text=Adicione+um+GIF+ou+Print+do+Lugia+voando+aqui)
+https://github.com/user-attachments/assets/8b6820db-79c4-4d45-90f1-674997b80947
 
 ## 🚀 Funcionalidades
 
