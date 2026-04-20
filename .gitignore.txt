@@ -1,0 +1,8 @@
+# Ignorar pastas do PyInstaller
+build/
+dist/
+*.spec
+
+# Ignorar executáveis e cache do Python
+*.exe
+__pycache__/
